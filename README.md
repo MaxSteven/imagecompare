@@ -13,8 +13,8 @@ Make sure to include the jquery files
 ```
 
 Include the image compare specific files
-```
 
+```
 <script src="js/imagecompare.js" type="text/javascript"></script>
 <script src="js/imagecompare_load.js" type="text/javascript"></script>
 <link rel="stylesheet" href="css/imagecompare.css" type="text/css" media="screen" />
