@@ -1,4 +1,4 @@
-Fork of the twentytwenty image comparison script.
+Fork of the [twentytwenty](https://github.com/zurb/twentytwenty) image comparison script.
 
 - [x] Modified to fix the image load bug
 - [x] Allows comparison of up to 4 images
